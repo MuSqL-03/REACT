@@ -1,0 +1,45 @@
+/* fichier Home.css */
+
+.App {
+     .container {
+        text-align: center;
+      }
+      .App-logo {
+         .logo {
+            height: 30vmin;
+            pointer-events: none;
+           margin-bottom: 50px;
+          }
+       }
+
+       @media (prefers-reduced-motion: no-preference) {
+          .rotate {
+
+          }
+        @keyframes rotate-spin {
+            from {
+              transform: rotate(0deg);
+            }
+            to {
+        transform: rotate(360deg);
+      }
+    }
+  }
+}
+
+     
+
+      
+    
+
+
+
+
+
+
+
+
+
+   
+
+

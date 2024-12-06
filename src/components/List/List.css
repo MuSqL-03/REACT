@@ -1,0 +1,13 @@
+/* fichier components/List/List.css */
+.container {
+    text-align: center;
+  }
+  
+  .movie-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    
+  }
+  
